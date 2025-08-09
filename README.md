@@ -54,12 +54,8 @@ It combines **traditional machine learning models** and **modern Transformer arc
   - Remove English stopwords
 - **Logistic Regression**
   - GridSearchCV (C, penalty, solver, max_iter=1000)
-  - Accuracy: **0.945**
-  - F1 Score: **0.9457**
 - **SVM**
   - Linear SVM + GridSearchCV (C, max_iter=1000)
-  - Accuracy: **0.94**
-  - F1 Score: **0.9452**
 
 ### 2. Transformer Models
 Process:
@@ -72,16 +68,10 @@ Process:
 7. Inference
 
 #### BERT (`bert-base-uncased`)
-- Accuracy: **0.99**
-- F1 Score: **0.99**
 
 #### XLNet (`xlnet-base-cased`)
-- Accuracy: **0.99**
-- F1 Score: **0.99**
 
 #### RoBERTa (`roberta-base`)
-- Accuracy: **0.99**
-- F1 Score: **0.99**
 
 ---
 
