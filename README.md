@@ -120,7 +120,7 @@ Process:
 
 ##  Installation
 
-1. Clone the repo:
+ Clone the repo:
 ```bash
 git clone https://github.com/tachirevlt/detect_fake_news.git
 ```
