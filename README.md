@@ -96,8 +96,36 @@ Process:
 
 ---
 
-## 🚀 How to Run
+## ⚠️ Limitations & Challenges
+- High training time and resource requirements (GPU recommended).
 
-### 1. Install dependencies
+- Dataset may be outdated → models may underperform on very recent news.
+
+- Data covers limited topics (politics, economics).
+
+- Models trained on English → performance may drop for other languages.
+
+---
+
+## 🔮 Future Work
+- Update datasets with more recent and diverse content.
+
+- Test on Vietnamese or other languages.
+
+- Deploy as an API or web application.
+
+- Use ensemble methods for higher accuracy.
+
+---
+
+##  Installation
+
+1. Clone the repo:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/tachirevlt/detect_fake_news.git
+```
+
+
+## Author
+
+[![GitHub](https://img.shields.io/badge/GitHub-tachirevlt-blue?logo=github)](https://github.com/tachirevlt)
