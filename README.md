@@ -6,7 +6,7 @@ It combines **traditional machine learning models** and **modern Transformer arc
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives 
 - Analyze the linguistic characteristics of fake news.
 - Build text classification models:
   - **Logistic Regression**, **SVM** (Machine Learning)
