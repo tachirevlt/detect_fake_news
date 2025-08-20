@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 This project builds a system to **detect and classify fake news** using **Natural Language Processing (NLP)**.  
-It combines **traditional machine learning models** and **modern Transformer architectures** (BERT, XLNet, RoBERTa) to compare performance. 
+It combines **traditional machine learning models** and **modern Transformer architectures** (BERT, XLNet, RoBERTa) to compare performance.  
 
 ---
 
