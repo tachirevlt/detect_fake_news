@@ -8,7 +8,7 @@ It combines **traditional machine learning models** and **modern Transformer arc
 
 ## 🎯 Objectives 
 - Analyze the linguistic characteristics of fake news.
-- Build text classification models:
+- Build text classification models: 
   - **Logistic Regression**, **SVM** (Machine Learning)
   - **BERT**, **XLNet**, **RoBERTa** (Transformers)
 - Evaluate performance using **Accuracy**, **Precision**, **Recall**, and **F1 Score**.
